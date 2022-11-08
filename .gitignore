@@ -2,6 +2,10 @@
 Data/
 .ipynb_checkpoints/
 
+Bidirectional_LSTM/
+
+Extracted_Features_ZCR.csv
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
