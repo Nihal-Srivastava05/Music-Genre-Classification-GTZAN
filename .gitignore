@@ -1,8 +1,9 @@
 # Custom
 Data/
 .ipynb_checkpoints/
-
+training_checkpoints/
 Bidirectional_LSTM/
+CNN_Combined/
 
 Extracted_Features_ZCR.csv
 
